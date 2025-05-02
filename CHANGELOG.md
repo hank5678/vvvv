@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/hank5678/vvvv/compare/v1.1.0...v1.2.0) (2025-05-02)
+
+
+### Bug Fixes
+
+* 修正 ccc 功能小問題 ([b1c9508](https://github.com/hank5678/vvvv/commit/b1c9508aec49a7ed41dedf83faf3befea0159a65))
+
+
+### Features
+
+* 移除 ddd 功能 ([f054379](https://github.com/hank5678/vvvv/commit/f0543798595c85117a1b93575d2968de35dda59d))
+
 # [1.1.0](https://github.com/hank5678/vvvv/compare/v1.0.0...v1.1.0) (2025-05-02)
 
 
