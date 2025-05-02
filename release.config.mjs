@@ -26,7 +26,7 @@ const devPlugins = [
 ];
 
 const config = {
-  branches: ["main", { pattern: "dev/*", prerelease: "dev" }],
+  branches: ["main", { name: "dev", pattern: "dev/*", prerelease: "dev" }],
   plugins: [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
