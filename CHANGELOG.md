@@ -1,3 +1,16 @@
+# [1.3.0](https://github.com/hank5678/vvvv/compare/v1.2.0...v1.3.0) (2025-05-12)
+
+
+### Bug Fixes
+
+* 修改文字 ([1544c53](https://github.com/hank5678/vvvv/commit/1544c53746d79fa8d8ab542bb3543e4c213afcc1))
+* **首頁:** 修正錯誤 ([69dd348](https://github.com/hank5678/vvvv/commit/69dd3488446525fcf548f93a7587fd6e12904dc2))
+
+
+### Features
+
+* 新增功能 ([8ed4c10](https://github.com/hank5678/vvvv/commit/8ed4c105a45bb4f6446205da2ea157abb9c75293))
+
 # [1.2.0](https://github.com/hank5678/vvvv/compare/v1.1.0...v1.2.0) (2025-05-02)
 
 
